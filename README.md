@@ -17,7 +17,7 @@
 ![Image](chat.png)
 
 
-<h3 align="center">Landing Page for WasmLLM</h3>
+<h3 align="center">WasmLLM Chat</h3>
 
   <p align="center">
 <!--     <a href="https://github.com/youssef-mansor/RISC-V-Datapath-single-cycle-implementation">View Demo</a> -->
